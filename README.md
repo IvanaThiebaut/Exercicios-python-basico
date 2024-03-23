@@ -1,5 +1,5 @@
-# Exercicios-python-basico
+# Python básico - exercícios
 
-Comecei a ter contato com Python na PUC-Pr e fiz uns cursos da plataforma Curso em Video para treinar os conceitos mais básicos.
+Comecei a ter contato com Python na PUC-Pr e fiz cursos da plataforma Curso em Video para treinar os conceitos mais básicos.
 
- Aqui tenho alguns exercícios dos cursos 1 e 2 que fiz.
+
